@@ -4,7 +4,7 @@ This repository contains code for classifying images of cats and dogs using mach
 Getting Started
 To get started with using this project, follow these instructions:
 
-Clone the repository to your local machine:   git clone https://[github.com/your-username/cat-dog-image-classification](https://github.com/SSid-2314/Image-Classifcation-Using-CNN).git
+Clone the repository to your local machine:   git clone https://[github.com/SSid-2314/cat-dog-image-classification](https://github.com/SSid-2314/Image-Classifcation-Using-CNN).git
 
 Install the required dependencies:  pip install -r requirements.txt
 
